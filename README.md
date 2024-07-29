@@ -64,4 +64,4 @@ docker-compose down
 ```
 
 ## Documento de Requisitos
-Você pode acessar o documento de requisitos do projeto através do seguinte link: REQUIREMENTS.md
+Você pode acessar o documento de requisitos do projeto através do seguinte link: [Requisitos](./REQUIREMENTS.md)
