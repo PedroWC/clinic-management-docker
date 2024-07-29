@@ -1,0 +1,6 @@
+[submodule "clinic-management"]
+	path = clinic-management
+	url = git@github.com:PedroWC/clinic-management.git
+[submodule "clinic-management-pwa"]
+	path = clinic-management-pwa
+	url = git@github.com:PedroWC/clinic-management-pwa.git
