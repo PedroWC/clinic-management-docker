@@ -63,3 +63,5 @@ Este comando irá construir as imagens Docker necessárias e iniciar os containe
 docker-compose down
 ```
 
+## Documento de Requisitos
+Você pode acessar o documento de requisitos do projeto através do seguinte link: REQUIREMENTS.md
